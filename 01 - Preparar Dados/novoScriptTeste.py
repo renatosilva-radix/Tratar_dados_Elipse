@@ -9,7 +9,7 @@ pastas = [
 
 # Caminho para os arquivos Excel
 input_file_plantas = 'plantasExportar.xlsx'
-input_file_novo = 'exportar.xlsx'
+input_file_novo = 'funcionalidadesExportar.xlsx'
 
 # Ler as planilhas Excel
 df_plantas = pd.read_excel(input_file_plantas)
